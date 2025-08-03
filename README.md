@@ -51,9 +51,6 @@ A conversational AI assistant that lets you **query your AWS resources** (EC2, A
 
 ---
 
-## 📁 Repository
-
-> [🔗 GitHub Repo](https://github.com/princeakash/ai-cloud-assistant)
 
 ---
 
