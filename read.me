@@ -1,1 +1,10 @@
-https://github.com/prince097cloud-architect/ai-cloud-assistant.git
+Directory Structure:
+ai-cloud-assistant/
+├── app.py                  # Streamlit UI
+├── agent.py                # LangChain agent setup
+├── tools/
+│   └── aws_tools.py        # boto3 functions (EC2, S3, etc.)
+├── .env                    # API keys (optional)
+└── requirements.txt        # Python dependencies
+pip install openai langchain boto3 streamlit
+pip install python-dotenv
